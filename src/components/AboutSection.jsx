@@ -12,33 +12,40 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer & Tech Creator
+              Aspiring Software Engineer
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+              I'm a sophomore at the University of Michigan - Ann Arbor,
+              majoring in Computer Science. I’m exploring my interests in
+              software development with a focus on systems software and the
+              intersection of technology, business management, healthcare, and
+              finance. With experience in AI, Human-Computer Interaction, and
+              haptic tools, I aim to create impactful, user-friendly solutions
+              that bridge technical efficiency with real-world applications.
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
+              Apart from my professional aspirations, I'm a HUGE foodie and an
+              amateur mechanical keyboard builder. Currently, I sport a Leobog
+              Hi75 frame with Boba U4T "thocky" tactile switches and pink piggy
+              keycaps. I've also been playing the viola for 9 years and was
+              classically trained by the very esteemed Kenneth Goldstein from
+              the Baltimore Symphony Orchestra. Learn more about my musical
+              journey below!
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
               <a href="#contact" className="cosmic-button">
                 {" "}
-                Get In Touch
+                Contact
               </a>
 
               <a
                 href=""
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
-                Download CV
+                Music Life
               </a>
             </div>
           </div>
@@ -50,10 +57,11 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Web Development</h4>
+                  <h4 className="font-semibold text-lg">
+                    Software Development
+                  </h4>
                   <p className="text-muted-foreground">
-                    Creating responsive websites and web applications with
-                    modern frameworks.
+                    Creating efficient applications.
                   </p>
                 </div>
               </div>
@@ -64,10 +72,11 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">
+                    Human-Centered Computing
+                  </h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                    Seeking out ethical technical solutions.
                   </p>
                 </div>
               </div>
@@ -81,8 +90,7 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Project Management</h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                    Leading projects from conception to completion.
                   </p>
                 </div>
               </div>

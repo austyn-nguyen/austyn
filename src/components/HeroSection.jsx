@@ -9,21 +9,24 @@ export const HeroSection = () => {
       <div className="container max-w-4xl mx-auto text-center z-10">
         <div className="space-y-6">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
-            <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
+            <span className="opacity-0 animate-fade-in"> Hello, I'm</span>
             <span className="text-primary opacity-0 animate-fade-in-delay-1">
               {" "}
-              Pedro
+              Austyn
             </span>
             <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">
               {" "}
-              Machado
+              Nguyen
             </span>
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I create stellar web experiences with modern technologies.
-            Specializing in front-end development, I build interfaces that are
-            both beautiful and functional.
+            "Our favorite heroes, villains, and side characters alike are
+            portrayed by people who demonstrate the greatest authenticity,
+            accompanied by the proudest vulnerability, and from this, we learn
+            not to hide in the shadows but to step into the spotlight and
+            immerse ourselves in the most important role of all: our true
+            selves."
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
