@@ -21,12 +21,10 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            "Our favorite heroes, villains, and side characters alike are
-            portrayed by people who demonstrate the greatest authenticity,
-            accompanied by the proudest vulnerability, and from this, we learn
-            not to hide in the shadows but to step into the spotlight and
-            immerse ourselves in the most important role of all: our true
-            selves."
+            "Our favorite heroes, villains, and others alike are portrayed by
+            people whose authenticity and vulnerability, like stars, burn
+            brightest—a reminder not to fade into the void but to step forward
+            and embrace the most important role of all: our true selves."
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">

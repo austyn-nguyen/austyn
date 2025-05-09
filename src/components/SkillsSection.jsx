@@ -3,21 +3,21 @@ import { cn } from "@/lib/utils";
 
 const skills = [
   // Frontend
-  { name: "C++", level: 95, category: "languages" },
-  { name: "Java", level: 90, category: "languages" },
+  { name: "C++", level: 93, category: "languages" },
+  { name: "Java", level: 87, category: "languages" },
   { name: "Python", level: 60, category: "languages" },
   { name: "C", level: 85, category: "languages" },
-  { name: "Verilog", level: 80, category: "languages" },
-  { name: "MatLab", level: 65, category: "languages" },
+  { name: "Verilog", level: 72, category: "languages" },
+  { name: "MatLab", level: 63, category: "languages" },
 
   // Backend
-  { name: "Windows", level: 98, category: "oS" },
-  { name: "macOS", level: 85, category: "oS" },
-  { name: "Linux/Unix", level: 80, category: "oS" },
+  { name: "Windows", level: 94, category: "oS" },
+  { name: "macOS", level: 80, category: "oS" },
+  { name: "Linux/Unix", level: 81, category: "oS" },
 
   // Tools
-  { name: "Git/GitHub", level: 90, category: "tools" },
-  { name: "CAD", level: 50, category: "tools" },
+  { name: "Git/GitHub", level: 87, category: "tools" },
+  { name: "React (Actively Learning!)", level: 20, category: "tools" },
   { name: "Something Totally Cool", level: 1000, category: "tools" },
 ];
 
